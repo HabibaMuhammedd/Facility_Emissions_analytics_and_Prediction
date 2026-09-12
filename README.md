@@ -14,14 +14,14 @@ To solve the challenge of analyzing large-scale environmental datasets, I built 
 4. Interactive Executive Dashboards: Designed a high-density, executive dashboard in Excel and Power BI featuring dynamic slicers, KPI tracking, and custom green-themed UI styling.
 
 ## Repository Structure
-`text
-├── Raw-data/                                # Original raw EPA datasets
-├── Carbon_Emissions_Analytics_&_Sustainable_Fin.pptx  # Project presentation slides
-├── Carbon_Emissions_SQL_Project.sql         # SQL schema setup & analytics queries
-├── Machine learning                        # ML notebook & model script files
-├── cleaned-emissions-data.xlsx             # Cleaned dataset (Post Power Query)
-├── cleaning python.py                       # Python scripts for initial exploratory analysis
-├── dashboarddddd.png                        # High-resolution dashboard preview
-├── final-dashboard.png                      # Final executive UI screenshot
-├── predicted_emissions_2018_2020.csv        # ML forecasted output dataset
-└── schema.png                               # Star Schema data model diagram
+
+- Raw-data/: Original raw EPA datasets
+- Carbon_Emissions_Analytics_&_Sustainable_Fin.pptx: Project presentation slides
+- Carbon_Emissions_SQL_Project.sql: SQL schema setup & analytics queries
+- Machine learning/: ML notebook & model script files
+- cleaned-emissions-data.xlsx: Cleaned dataset (Post Power Query)
+- cleaning python.py: Python scripts for initial exploratory analysis
+- dashboarddddd.png: High-resolution dashboard preview
+- final-dashboard.png: Final executive UI screenshot
+- predicted_emissions_2018_2020.csv: ML forecasted output dataset
+- schema.png: Star Schema data model diagram
